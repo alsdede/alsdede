@@ -8,6 +8,7 @@
 <ul>
   <li>💻 I'm a React Developer from <b>São Jose - Santa Catarina, <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="15"/> Brasil</b>;</li> 
 </ul>
+
 ---
 
 ## 🛠 Tech Stack
@@ -29,12 +30,6 @@
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </li>
 </ul>
-<p>
-  
-  
-  
-  <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  
-</p>
+
 
 ---
